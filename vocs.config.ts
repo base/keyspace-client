@@ -6,7 +6,7 @@ export default defineConfig({
   topNav: [
     {
       text: 'Github',
-      link: 'https://github.com/base-org/keyspace-client',
+      link: 'https://github.com/base/keyspace-client',
     },
   ],
   sidebar: [
